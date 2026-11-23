@@ -1,0 +1,12 @@
+{
+  "name": "christmas-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "圣诞树小屋：实时 3D 圣诞树与自由挂饰",
+  "scripts": {
+    "start": "node preview.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
